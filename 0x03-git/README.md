@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Read me is updated
-=======
-README.md MAster is updated
->>>>>>> master
+if u see this in master i success merging branch to master
