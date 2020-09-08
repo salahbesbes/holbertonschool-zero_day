@@ -1,1 +1,1 @@
-README.md is updated
+README.md is merged from update_script
